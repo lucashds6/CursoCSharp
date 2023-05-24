@@ -8,25 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\matheus.hsilva65\\.nuget\\packages\\": {},
+    "C:\\Users\\lucas.hsilva50\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matheus.hsilva65\\Downloads\\source\\repos\\CursoCSharp\\CursoCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\lucas.hsilva50\\source\\repos\\CursoCSharp\\CursoCSharp.csproj",
       "projectName": "CursoCSharp",
-      "projectPath": "C:\\Users\\matheus.hsilva65\\Downloads\\source\\repos\\CursoCSharp\\CursoCSharp.csproj",
-      "packagesPath": "C:\\Users\\matheus.hsilva65\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matheus.hsilva65\\Downloads\\source\\repos\\CursoCSharp\\obj\\",
+      "projectPath": "C:\\Users\\lucas.hsilva50\\source\\repos\\CursoCSharp\\CursoCSharp.csproj",
+      "packagesPath": "C:\\Users\\lucas.hsilva50\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lucas.hsilva50\\source\\repos\\CursoCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\matheus.hsilva65\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lucas.hsilva50\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"

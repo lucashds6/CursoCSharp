@@ -39,7 +39,9 @@ namespace CursoCSharp {
                 {"Exercicios3 Get Set - Classes e métodos",ExerciciosGetSet3.Executar },
 
                 //colecoes
-                {"Arrays - Coleções",Arrays.Executar }
+                {"Arrays - Coleções",Arrays.Executar },
+                {"Coleção Queue - Coleções",colecoesQueue.Executar },
+                {"Coleções de Stack - Coleções",ColecoesStack.executar }
                 
 
             }); ;

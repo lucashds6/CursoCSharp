@@ -13,11 +13,11 @@ namespace CursoCSharp.Poo {
         }
 
         public class Juridico : Cliente {
-
+            public string Cnpj;
         }
 
         public class Fisico : Cliente {
-
+            public string Cpf;
         }
         public static void Executar() {
 

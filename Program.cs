@@ -49,7 +49,8 @@ namespace CursoCSharp {
                 {"Construtor This - Poo",ConstrutorThis.Executar },
              //   {"Encapsulamento - Poo",Encapsulamento.Executar},
                 {"Polimorfismo - Poo",Polimorfismo.Executar  },
-                {"Exercicios de Polimorfismo - Poo",ExercicioPolimorfismo.Executar }
+                {"Exercicios de Polimorfismo - Poo",ExercicioPolimorfismo.Executar },
+                {"Abstract - Poo",Abstract.Executar }
                 
 
             }); ;
